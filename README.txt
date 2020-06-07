@@ -2,6 +2,8 @@ README
 
 This is my homework solutions for Machine Learning course at KU, Fall 2018.
 
+The code and reports are provided _as is_, for purposes of education, but with no guarantee of correctness. 
+
 Feedback received on assignments, that I didn't have time to incorporate.
 
 # 1:
@@ -27,5 +29,8 @@ Question 1: 1.2) Your bound is correct and well reasoned, but we asked you for a
 
 # 6:
 
+None provided.
+
 # 7:
 
+None provided.

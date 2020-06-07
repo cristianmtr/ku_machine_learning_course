@@ -1,6 +1,6 @@
 README
 
-This is my homework solutions for Machine Learning course at KU, Fall 2018.
+My homework solutions for Machine Learning course at KU, Fall 2018.
 
 The code and reports are provided _as is_, for purposes of education, but with no guarantee of correctness. 
 
